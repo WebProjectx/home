@@ -1,0 +1,41 @@
+ body {
+    color :black;
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+
+
+p {
+  color:black;
+  font-size: 24;
+  font
+}
+
+
+li {
+display:inline;
+font-size: 24px;
+
+
+}
+
+.navbar {
+background-color: black;
+color: white;
+text-shadow: 2;
+margin-left: -50px;
+margin-right: -48px;
+margin-top: -35px;
+font-family: sans-serif;
+text-align: center;
+white-space:nowrap;
+word-spacing: 10px;
+background-color: black;
+
+}
+
+head {
+background-color: black;
+
+}
